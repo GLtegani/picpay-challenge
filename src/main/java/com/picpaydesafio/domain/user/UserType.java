@@ -1,6 +1,6 @@
 package com.picpaydesafio.domain.user;
 
 public enum UserType {
-   COMMOM,
+   COMMON,
    MERCHANT
 }

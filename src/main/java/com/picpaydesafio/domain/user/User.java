@@ -33,6 +33,7 @@ public class User {
       this.setLastName(data.lastName());
       this.setBalance(data.balance());
       this.setUserType(data.userType());
+      this.setDocument(data.document());
       this.setPassword(data.password());
       this.setEmail(data.email());
    }
